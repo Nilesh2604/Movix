@@ -1,7 +1,7 @@
 import React from 'react'
 import {FaFacebookF,FaInstagram,FaTwitter,FaLinkedin} from "react-icons/fa"
 import "./style.scss"
-import ContentWrapper from '../contentWrapper/ContentWrapper'
+import ContentWrapper from '../contentWrapper/contentWrapper'
 const Footer = () => {
   return (
    <footer className="footer">

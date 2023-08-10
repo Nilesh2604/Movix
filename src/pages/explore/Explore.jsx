@@ -2,7 +2,7 @@ import React, { useState,useEffect } from 'react'
 import Select from "react-select"
 import useFetch from '../../hooks/UseFetch'
 import { fetchDataFromApi } from '../../utils/api'
-import ContentWrapper from '../../components/contentWrapper/ContentWrapper.jsx'
+import ContentWrapper from '../../components/contentWrapper/contentWrapper.jsx'
 import MovieCard from '../../components/moviecard/MovieCard'
 import Spinner from '../../components/spinner/Spinner'
 import "./style.scss"
