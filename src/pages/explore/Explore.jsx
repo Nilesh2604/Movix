@@ -1,6 +1,6 @@
 import React, { useState,useEffect } from 'react'
 import Select from "react-select"
-import useFetch from '../../hooks/UseFetch'
+import useFetch from '../../hooks/useFetch'
 import { fetchDataFromApi } from '../../utils/api'
 import ContentWrapper from '../../components/contentWrapper/contentWrapper.jsx'
 import MovieCard from '../../components/moviecard/MovieCard'

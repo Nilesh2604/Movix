@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import ContentWrapper from '../../../components/contentWrapper/contentWrapper.jsx';
 import SwitchTabs from '../../../components/switchTabs/SwitchTabs';
-import useFetch from '../../../hooks/UseFetch';
+import useFetch from '../../../hooks/useFetch.jsx';
 import Carousel from '../../../components/carousel/Carousel';
 const TopRated = () => {
 

@@ -1,6 +1,6 @@
 import React from 'react'
 import "./style.scss"
-import useFetch from '../../hooks/UseFetch'
+import useFetch from '../../hooks/useFetch'
 import DetailsBanner from './DetailsBanner/DetailsBanner'
 import { useParams } from 'react-router-dom'
 import Cast from './cast/Cast'
