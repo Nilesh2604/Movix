@@ -6,7 +6,7 @@ import ContentWrapper from '../../../components/contentWrapper/contentWrapper.js
 import useFetch from '../../../hooks/useFetch.jsx'
 import Genres from '../../../components/genres/Genres'
 import CircleRating from '../../../components/cicleRating/CircleRating'
-import Img from '../../../components/lazyLoadimage/Img'
+import Img from '../../../components/lazyLoadimage/img.jsx'
 import PosterFallback from'../../../assets/no-poster.png'
 import { PlayIcon } from '../PlayIcon'
 import VideoPopup from '../../../components/videoPopup/VideoPopup'

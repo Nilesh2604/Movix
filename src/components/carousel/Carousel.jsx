@@ -6,7 +6,7 @@ import {
 import { useNavigate } from "react-router-dom";
 import { useSelector } from "react-redux";
 import dayjs from "dayjs";
-import Img from "../lazyLoadimage/Img"
+import Img from "../lazyLoadimage/img"
 import ContentWrapper from "../contentWrapper/contentWrapper.jsx";
 import PosterFallback from "../../assets/no-poster.png";
 import CircleRating from "../cicleRating/CircleRating";
