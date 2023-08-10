@@ -8,7 +8,7 @@ import { getApiConfiguration,getGenres  } from './store/homeSlice';
 
 import Header from './components/header/Header';
 import Footer from './components/footer/Footer';
-import Home from './pages/home/home';
+import Home from './pages/home/home.jsx';
 import Details from './pages/details/details';
 import SearchResult from './pages/searchResult/searchResult';
 import Explore from './pages/explore/explore';
