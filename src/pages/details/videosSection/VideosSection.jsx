@@ -1,8 +1,8 @@
 import React from 'react'
 import { useState } from 'react'
-import ContentWrapper from '../../../components/contentWrapper/contentWrapper'
+import ContentWrapper from '../../../components/contentWrapper/ContentWrapper'
 import VideoPopup from '../../../components/videoPopup/VideoPopup'
-import Img from '../../../components/lazyLoadimage/img'
+import Img from '../../../components/lazyLoadimage/Img'
 import { PlayIcon } from '../PlayIcon'
 import "./style.scss"
 

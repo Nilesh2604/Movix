@@ -6,10 +6,10 @@ import {
 import { useNavigate } from "react-router-dom";
 import { useSelector } from "react-redux";
 import dayjs from "dayjs";
-import Img from "../lazyLoadimage/img"
-import ContentWrapper from "../contentWrapper/contentWrapper";
+import Img from "../lazyLoadimage/Img"
+import ContentWrapper from "../contentWrapper/ContentWrapper";
 import PosterFallback from "../../assets/no-poster.png";
-import CircleRating from "../cicleRating/circleRating";
+import CircleRating from "../cicleRating/CircleRating";
 import Genres from "../genres/Genres";
 import "./style.scss";
 import "../../index.scss"
