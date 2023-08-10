@@ -19,7 +19,7 @@ const Footer = () => {
         </li>
       </ul>
       <div className="infoText">
-       Bringing Stories to Life on the Silver Screen – Your Ultimate Movie Destination. Explore, Experience, and Escape with Our Unforgettable Selection of Films. Lights down, Hearts up – Welcome to a World of Cinematic Magic!. Stay Connected with Us! Follow for the Latest Movie News, Trailers, and Exclusive Content.
+       Bringing Stories to Life on the Silver Screen. Your Ultimate Movie Destination. Explore, Experience, and Escape with Our Unforgettable Selection of Films. Lights down, Hearts up – Welcome to a World of Cinematic Magic!. Stay Connected with Us! Follow for the Latest Movie News, Trailers, and Exclusive Content.
       </div>
       <div className="socialIcons">
         <span className="icon">
@@ -29,7 +29,7 @@ const Footer = () => {
           <FaInstagram/>
         </span>
         <span className="icon">
-          <FaInstagram/>
+          <FaTwitter/>
         </span>
         <span className="icon">
           <FaLinkedin/>
